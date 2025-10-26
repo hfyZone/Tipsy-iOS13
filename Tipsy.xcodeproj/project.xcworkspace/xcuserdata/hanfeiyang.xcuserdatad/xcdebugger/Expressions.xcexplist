@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CalculatorViewController.calculatePressed(_:):CalculatorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bill.split!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CalculatorViewController.tipChanged(_:):CalculatorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "round(tipPctNum * 100) / 100">
+            </PersistentString>
+            <PersistentString
+               value = "sender.titleLabel?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
